@@ -1,4 +1,4 @@
-# oh-my-zsh emojier Theme
+# oh-my-zsh emojeer Theme
 
 ### Customization
 # colors{{{ in terminal use `spectrum_bls` check xterm-256 color palette
